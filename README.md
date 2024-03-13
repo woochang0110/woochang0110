@@ -20,7 +20,7 @@
 
 <h2>
   Coding Test Exercise
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/woochang0110/)
 
 </h2>
 <div>
