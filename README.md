@@ -13,9 +13,6 @@
 <h2> 
   GitHub Stats
 </h2>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
-
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=woochang0110&show_icons=true&theme=default" width="550px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woochang0110&exclude_repo=CapstoneDesign&count_private=true&langs_count=4&theme=default" heigt="230px">
@@ -23,6 +20,8 @@
 
 <h2>
   Coding Test Exercise
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
+
 </h2>
 <div>
 
